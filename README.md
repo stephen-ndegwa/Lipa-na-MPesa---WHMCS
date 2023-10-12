@@ -1,1 +1,1 @@
-# Lipa-na-MPesa---WHMCS
+# Lipa-na-MPesa - WHMCS
